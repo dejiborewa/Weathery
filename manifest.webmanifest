@@ -1,0 +1,30 @@
+{
+  "short_name": "Weathery",
+  "name": "Weathery",
+  "description": "Weather forecast information",
+  "icons": [
+    {
+      "src": "favicon_io/icon-144X144.png",
+      "type": "image/png",
+      "sizes": "144x144",
+      "purpose": "any"
+    },
+    {
+      "src": "favicon_io/icon-192X192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "favicon_io/icon-512X512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/index.html",
+  "background_color": "#eb087a",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#eb087a"
+}
