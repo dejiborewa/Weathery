@@ -1,3 +1,5 @@
+// Nothing
+
 let DAYS = ["SUN", "MON", "TUE", "WED", "THUR", "FRI", "SAT"];
 
 function getCurrentDate() {
